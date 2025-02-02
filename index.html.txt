@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sweet Delights - Sour, Lebanon</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class="header-content">
+      <h1>Welcome to Sweet Delights!</h1>
+      <p>Your favorite sweets and candies from Sour, Lebanon</p>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#products">Products</a></li>
+      <li><a href="#wholesale">Wholesale</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- About Section -->
+  <section id="about" class="section">
+    <h2>About Us</h2>
+    <p>We are a family-owned business located in Sour, Lebanon, specializing in delicious sweets and candies. Our products are made with love and care, ensuring the highest quality for our customers.</p>
+  </section>
+
+  <!-- Products Section -->
+  <section id="products" class="section">
+    <h2>Our Products</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <h3>By Piece</h3>
+        <p>Choose individual pieces of your favorite candies. Perfect for personal treats or small gifts.</p>
+        <button>Shop Now</button>
+      </div>
+      <div class="product-card">
+        <h3>Wholesale</h3>
+        <p>Bulk orders available for events, parties, or businesses. Get the best prices when you buy in large quantities.</p>
+        <button>Contact Us</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Wholesale Section -->
+  <section id="wholesale" class="section">
+    <h2>Wholesale Orders</h2>
+    <p>If you're looking to purchase our candies in bulk, we offer competitive pricing and customizable packages. Contact us today to discuss your needs!</p>
+    <button>Contact for Wholesale</button>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="section">
+    <h2>Contact Us</h2>
+    <p>Visit us at our store in Sour, Lebanon, or reach out via phone or email:</p>
+    <ul>
+      <li>📍 Address: Main Street, Sour, Lebanon</li>
+      <li>📞 Phone: +961 123 4567</li>
+      <li>📧 Email: info@sweetdelights.com</li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2023 Sweet Delights. All rights reserved.</p>
+  </footer>
+</body>
+</html>
